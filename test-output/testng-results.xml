@@ -2,36 +2,36 @@
 <testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-08-08T19:00:12 IST" name="Default suite" finished-at="2024-08-08T19:00:48 IST" duration-ms="36311">
+  <suite started-at="2024-08-08T23:34:56 IST" name="Default suite" finished-at="2024-08-08T23:35:22 IST" duration-ms="25799">
     <groups>
     </groups>
-    <test started-at="2024-08-08T19:00:12 IST" name="Default test" finished-at="2024-08-08T19:00:48 IST" duration-ms="36311">
+    <test started-at="2024-08-08T23:34:56 IST" name="Default test" finished-at="2024-08-08T23:35:22 IST" duration-ms="25799">
       <class name="swaglabs.demo">
-        <test-method is-config="true" signature="beforeclass()[pri:0, instance:swaglabs.demo@f0c8a99]" started-at="2024-08-08T19:00:12 IST" name="beforeclass" finished-at="2024-08-08T19:00:41 IST" duration-ms="29028" status="PASS">
+        <test-method is-config="true" signature="beforeclass()[pri:0, instance:swaglabs.demo@f0c8a99]" started-at="2024-08-08T23:34:57 IST" name="beforeclass" finished-at="2024-08-08T23:35:00 IST" duration-ms="3911" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeclass -->
-        <test-method signature="script()[pri:1, instance:swaglabs.demo@f0c8a99]" started-at="2024-08-08T19:00:41 IST" name="script" finished-at="2024-08-08T19:00:42 IST" duration-ms="642" status="PASS">
+        <test-method signature="script()[pri:1, instance:swaglabs.demo@f0c8a99]" started-at="2024-08-08T23:35:00 IST" name="script" finished-at="2024-08-08T23:35:11 IST" duration-ms="11027" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- script -->
-        <test-method signature="Cart()[pri:2, instance:swaglabs.demo@f0c8a99]" started-at="2024-08-08T19:00:42 IST" name="Cart" finished-at="2024-08-08T19:00:42 IST" duration-ms="350" status="PASS">
+        <test-method signature="Cart()[pri:2, instance:swaglabs.demo@f0c8a99]" started-at="2024-08-08T23:35:11 IST" name="Cart" finished-at="2024-08-08T23:35:12 IST" duration-ms="381" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Cart -->
-        <test-method signature="Checkout()[pri:3, instance:swaglabs.demo@f0c8a99]" started-at="2024-08-08T19:00:42 IST" name="Checkout" finished-at="2024-08-08T19:00:42 IST" duration-ms="129" status="PASS">
+        <test-method signature="Checkout()[pri:3, instance:swaglabs.demo@f0c8a99]" started-at="2024-08-08T23:35:12 IST" name="Checkout" finished-at="2024-08-08T23:35:12 IST" duration-ms="178" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Checkout -->
-        <test-method signature="Information()[pri:4, instance:swaglabs.demo@f0c8a99]" started-at="2024-08-08T19:00:42 IST" name="Information" finished-at="2024-08-08T19:00:42 IST" duration-ms="287" status="PASS">
+        <test-method signature="Information()[pri:4, instance:swaglabs.demo@f0c8a99]" started-at="2024-08-08T23:35:12 IST" name="Information" finished-at="2024-08-08T23:35:18 IST" duration-ms="5614" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Information -->
-        <test-method signature="Logout()[pri:5, instance:swaglabs.demo@f0c8a99]" started-at="2024-08-08T19:00:42 IST" name="Logout" finished-at="2024-08-08T19:00:45 IST" duration-ms="2807" status="PASS">
+        <test-method signature="Logout()[pri:5, instance:swaglabs.demo@f0c8a99]" started-at="2024-08-08T23:35:18 IST" name="Logout" finished-at="2024-08-08T23:35:20 IST" duration-ms="2339" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Logout -->
-        <test-method is-config="true" signature="afterclass()[pri:0, instance:swaglabs.demo@f0c8a99]" started-at="2024-08-08T19:00:45 IST" name="afterclass" finished-at="2024-08-08T19:00:48 IST" duration-ms="2999" status="PASS">
+        <test-method is-config="true" signature="afterclass()[pri:0, instance:swaglabs.demo@f0c8a99]" started-at="2024-08-08T23:35:20 IST" name="afterclass" finished-at="2024-08-08T23:35:22 IST" duration-ms="2292" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterclass -->
